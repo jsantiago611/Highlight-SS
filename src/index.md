@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Bible Study like a Pro
+metaTitle: Bible Study
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
