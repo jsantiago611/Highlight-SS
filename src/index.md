@@ -6,4 +6,11 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hi there! Welcome to Scripture Savvy, an insanely useful guide built for new Christians to kickstart their faith. Learn about the Bible, develop good habits, and become more like Jesus.
+Scripture Savvy is a non-award winning blog by a non-expert Christian who still hasn't figured out the Bible or how to heroically live like Jesus. Find fluff-free answers to...
+
+* How to *effectively* study the Bible? 
+* How to develop *life-changing* habits? 
+* How to See Jesus is *all* of Scripture? 
+* How to navigate life's *tough* decisions with Biblical Wisdom?
+
+Scripture Savvy Exists to give you some **helpful tips, techniques, and tools** that will help you grow spiritually in the middle of your tech-saturated life.
