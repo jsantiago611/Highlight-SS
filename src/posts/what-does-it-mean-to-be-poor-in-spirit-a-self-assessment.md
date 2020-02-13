@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: What does it mean to be Poor in Spirit? (A Self-Assessment)
-date: 2020-02-13T20:56:06.835Z
+date: 2020-02-13T19:30:00.000Z
 tags:
   - Self-Reflection
   - Matthew
